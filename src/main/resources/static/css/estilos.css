@@ -1,0 +1,27 @@
+#contenido{
+    position: absolute;
+    top: 12%;
+    left: 0;
+    height: 88%;
+    width: 100%;
+    background-color: #C29B61;
+    color: black;
+    overflow: auto;
+}
+
+#piePagina{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2%;
+    width: 100%;
+    background-color: #804000;
+    color: white;
+    text-align: center;
+}
+
+#img{
+    height: 400px;
+    width: 650px;
+}
+
